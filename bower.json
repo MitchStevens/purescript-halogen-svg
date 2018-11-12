@@ -18,12 +18,9 @@
   "devDependencies": {
     "purescript-psci-support": "^4.0.0"
   },
-  "devDependencies": {
-    "purescript-psci-support": "^4.0.0"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kwohlfahrt/purescript-halogen-svg.git"
+    "url": "https://github.com/MitchStevens/purescript-halogen-svg.git"
   }
 }
 
